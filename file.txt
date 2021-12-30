@@ -3,10 +3,7 @@ this is the second line
 this is the third line
 this is the frouth line
 this is the fifth line
-this is the use of echo from cmd
-<<<<<<< HEAD
+this is the use of echo from cm
 another line
-=======
 
 edit made on github.com
->>>>>>> 864634bd5eaf69dfe3f78f64b07e7c3979a8254d
