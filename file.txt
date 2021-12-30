@@ -1,9 +1,0 @@
-this is the first line 
-this is the second line
-this is the third line
-this is the frouth line
-this is the fifth line
-this is the use of echo from cm
-another line
-
-edit made on github.com
